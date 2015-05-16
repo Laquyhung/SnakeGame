@@ -1,2 +1,0 @@
-# SnakeGame
-tyuduiv iuoluou
