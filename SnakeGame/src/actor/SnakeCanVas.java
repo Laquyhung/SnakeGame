@@ -54,6 +54,7 @@ public class SnakeCanVas implements Runnable {
 	
 	@Override
 	public void run() {
+		////
 		
 		
 	}
